@@ -12,3 +12,15 @@ body {
   border-radius: 8px;
   padding: 9px 25px;
 }
+.package-btn-bg {
+  background-color: #f496d227;
+}
+
+.hot-card-border-radius {
+  border-radius: 26px;
+}
+
+.hot-card {
+  transform: scale(1.08);
+  height: 480px;
+}
