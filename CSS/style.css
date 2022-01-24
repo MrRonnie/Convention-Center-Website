@@ -2,3 +2,13 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+.dream-bg-success {
+  background-color: #fceae8;
+}
+.dream-btn-buy-now {
+  color: white;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
