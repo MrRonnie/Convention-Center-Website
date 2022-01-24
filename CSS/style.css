@@ -24,3 +24,16 @@ body {
   transform: scale(1.08);
   height: 480px;
 }
+.text-decoration-none {
+  text-decoration: none;
+}
+
+.line-height {
+  line-height: 20px;
+}
+.footer-bg {
+  background-color: rgba(11, 13, 23, 1);
+}
+.fa-google-play {
+  color: white;
+}
